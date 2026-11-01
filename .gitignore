@@ -1,0 +1,6 @@
+# Large VTK dataset files are provided separately and must not be committed.
+VIS_2026_WS_Data/**/*.vtu
+
+# Python bytecode and local caches.
+__pycache__/
+*.py[cod]
