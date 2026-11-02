@@ -1,5 +1,29 @@
 # Visual Data Analysis Project
 
+## Required software
+
+You need:
+
+- Python 3
+- NumPy 1.24 or newer
+- VTK 9.2 or newer
+- Tkinter, which is normally included with Python on Windows
+
+Install the Python packages from the project folder with:
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+## Running the project
+
+After installing the requirements and adding the data files below, start the
+GUI with:
+
+```powershell
+python main.py
+```
+
 ## Data files
 
 The VTK datasets are not included in the repository because the `.vtu` files
